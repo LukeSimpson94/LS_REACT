@@ -1,3 +1,4 @@
-# LS_REACT
+# React Admin Dashboard
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-pgg3fs)
+Completed React Admin Dashboard Repo
+
